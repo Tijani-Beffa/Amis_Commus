@@ -108,7 +108,7 @@ Le fichier `TP Spark – Rapport complet _ Amis en commun.pdf` contient :
 
 ##  Auteur
 
-Projet réalisé par Mohamed Mahmoud Ahmedou Beffa  dans le cadre d’un TP sur Apache Spark et les systèmes distribués.
+Projet réalisé par **Mohamed Mahmoud Ahmedou Beffa**  dans le cadre d’un Projet sur Apache Spark et les systèmes distribués.
 
 ---
 
