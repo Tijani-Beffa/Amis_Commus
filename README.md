@@ -109,6 +109,7 @@ Le fichier `TP Spark – Rapport complet _ Amis en commun.pdf` contient :
 ##  Auteur
 
 Projet réalisé par **Mohamed Mahmoud Ahmedou Beffa**  dans le cadre d’un Projet sur Apache Spark et les systèmes distribués.
+ Voici mon Mail Gmail : tijanibeffa@gmail.com pour reppondre a Votre questions
 
 ---
 
